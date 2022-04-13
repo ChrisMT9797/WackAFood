@@ -208,3 +208,4 @@ Received Import Request.
   path: Assets/Challenge 5/Scripts/TargetX.cs
   artifactKey: Guid(629360cc36e724222b73cadfd418f267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Challenge 5/Scripts/TargetX.cs using Guid(629360cc36e724222b73cadfd418f267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7cb4640ec575b4fc3c513b9003fdaa5') in 0.025124 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
